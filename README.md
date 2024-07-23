@@ -49,7 +49,7 @@ CLIENT_SECRET=your_spotify_client_secret
    Execute the script to start your musical journey:
 
    ```bash
-   python script.py
+   python main.py
    ```
 
 2. **Enter the Date**
